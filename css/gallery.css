@@ -1,0 +1,58 @@
+section {
+    padding: 20px;
+}
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.welcome-message {
+    font-size: 24px;
+    color: #333;
+}
+
+.contact-info {
+    margin-top: 20px;
+    color: #333;
+}
+
+.school-info {
+    font-size: 18px;
+    color: #333;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 80px rgba(0, 0, 0, 0.56);
+    margin: 10px;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.card-title {
+    font-size: 22px;
+    color: #4CAF50;
+}
+
+.card-description {
+    font-size: 16px;
+}
+.gallery-img img{
+    width: 234px;
+    background-color: white;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 80px rgba(0, 0, 0, 0.56);
+    margin: -1px;
+    padding: 0px;
+    border-radius: 8px;
+}
+.gallery-vid video{
+    width: 234px;
+    background-color: white;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 80px rgba(0, 0, 0, 0.56);
+    margin: -1px;
+    padding: 0px;
+    border-radius: 8px;
+}
